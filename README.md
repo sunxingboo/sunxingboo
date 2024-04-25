@@ -9,11 +9,8 @@
 
 
   <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sunxingboo/sunxingboo/blob/main/assets/images/developer.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/sunxingboo/sunxingboo/blob/main/assets/images/developer.gif" height="225px" />
-    <img src="https://github.com/sunxingboo/sunxingboo/blob/main/assets/images/developer.gif" />
-  </picture>
+
+<img align="center" src="https://github.com/sunxingboo/sunxingboo/blob/main/assets/images/developer.gif" />
 
 
   <!-- for beauty 留个空行好看点 -->
@@ -47,7 +44,7 @@
 
 <!-- GitHub 数据统计 -->
 
-<img width="50%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunxingboo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21text_color=718096&icon_color=805AD5&bg_color=ffffff" /><img width=50% align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunxingboo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21text_color=718096&icon_color=805AD5&bg_color=ffffff" />
+<img width="50%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunxingboo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21text_color=718096&icon_color=805AD5&bg_color=ffffff" /><img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunxingboo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21text_color=718096&icon_color=805AD5&bg_color=ffffff" />
 
 
 
