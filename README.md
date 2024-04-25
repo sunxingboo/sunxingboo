@@ -13,10 +13,6 @@
 <img align="center" src="https://github.com/sunxingboo/sunxingboo/blob/main/assets/images/developer.gif" />
 
 
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
-
-
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
@@ -28,6 +24,8 @@
 <!-- ########################################## 分割 ########################################## -->
 
 <div align="center">
+<div align="center">
+
 
 
 
@@ -44,7 +42,7 @@
 
 <!-- GitHub 数据统计 -->
 
-<img width="50%" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunxingboo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21text_color=718096&icon_color=805AD5&bg_color=ffffff" /><img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunxingboo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21text_color=718096&icon_color=805AD5&bg_color=ffffff" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sunxingboo&hide_title=true&show_icons=true&include_all_commits=true&line_height=21text_color=718096&icon_color=805AD5&bg_color=ffffff" />
 
 
 
