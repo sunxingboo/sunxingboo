@@ -1,32 +1,15 @@
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="https://sunxingboo.github.io/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Praying to be bug-free!&center=true&size=27" />
-    </a>
-  </div>
+<p align="center">
+  <a href="https://sunxingboo.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Praying to be bug-free!&center=true&size=27" />
+  </a>
 
-
-  <!-- knock code pictures 敲代码的图片 -->
-
-<img align="center" src="https://github.com/sunxingboo/sunxingboo/blob/main/assets/images/developer.gif" />
-
-
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
-
-
-<!-- ########################################## 分割 ########################################## -->
-
-<div align="center">
-<div align="center">
-
-
+  <img align="center" src="https://github.com/sunxingboo/sunxingboo/blob/main/assets/images/developer.gif" />
+  
+  <img alt="github-snake" src="https://github.com/sunxingboo/sunxingboo/blob/main/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</p>
 
 
 
